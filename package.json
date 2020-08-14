@@ -1,5 +1,5 @@
 {
-  "name": "awss3provider",
+  "name": "amplify-storage",
   "version": "1.0.0",
   "description": "",
   "main": "build/index.js",
