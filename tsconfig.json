@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "es2017",
+    "noImplicitAny": false,
+    "preserveConstEnums": true,
+    "outDir": "./build",
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "declaration": true
+  },
+  "include": ["**/*.ts", "**/*.js"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}

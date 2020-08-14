@@ -1,0 +1,17 @@
+{
+  "name": "awss3provider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-amplify/storage": "^3.2.12"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
